@@ -1,4 +1,5 @@
 # RLO File Masquerading
+-# README made by chatgpt cuz im lazy
 
 A small Python project exploring Unicode Right-to-Left Override (RLO, `U+202E`) and its impact on filename presentation in Windows.
 
